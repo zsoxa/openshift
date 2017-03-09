@@ -1,0 +1,2 @@
+# openshift
+majd törölni
